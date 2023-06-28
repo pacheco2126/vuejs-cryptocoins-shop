@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Etherum",
+        "symbol": "ETH",
+        "price": "1768.99",
+        "image": "https://assets.coingecko.com/coins/images/279/large/ethereum.png",
+        "description": "Ethereum es una plataforma descentralizada basada en blockchain que permite la creación de aplicaciones descentralizadas y contratos inteligentes."
+    },
+    {
+        "id": 2,
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "price": "27835.99",
+        "image": "https://assets.coingecko.com/coins/images/1/large/bitcoin.png?1547033579",
+        "description": "Bitcoin es un tipo de activo digital diseñado para funcionar como medio de intercambio y verificar la transferencia de activos."
+    },
+    {
+        "id": 3,
+        "name": "Cardano",
+        "symbol": "ADA",
+        "price": "0.3703",
+        "image": "https://assets.coingecko.com/coins/images/975/large/cardano.png",
+        "description": "Cardano es una plataforma de código abierto que permite a los desarrolladores crear aplicaciones descentralizadas (dApps) y contratos inteligentes que se ejecutan en una red blockchain."
+    },
+    {
+        "id": 4,
+        "name": "ApeCoin",
+        "symbol": "APE",
+        "price": "4.0049",
+        "image": "https://thegivingblock.com/wp-content/uploads/2022/03/APECOIN.png",
+        "description": "ApeCoin es una criptomoneda que tiene una oferta circulante total de 100.000.000 monedas. ApeCoin tiene una capitalización de mercado de $ 0."
+    },
+    {
+        "id": 5,
+        "name": "Litecoin",
+        "symbol": "LTC",
+        "price": "87.65",
+        "image": "https://assets.coingecko.com/coins/images/2/large/litecoin.png",
+        "description": "Litecoin es una criptomoneda peer-to-peer que utiliza el protocolo de código abierto Scrypt como prueba de trabajo, lo que permite la minería con hardware de CPU común."
+    },
+    {
+        "id": 6,
+        "name": "DogeCoin",
+        "symbol": "DOGE",
+        "price": "104.99",
+        "image": "https://assets.coingecko.com/coins/images/5/large/dogecoin.png?1547792256",
+        "description": "Dogecoin es una criptomoneda basada en el código abierto lanzada en 2013 que se inspiró en el meme de Internet Doge. Dogecoin es una criptomoneda de tipo Scrypt que utiliza el algoritmo de prueba de trabajo de Hashimoto."
+    },
+    {
+        "id": 7,
+        "name": "Tether",
+        "symbol": "USDT",
+        "price": "1.00",
+        "image": "https://assets.coingecko.com/coins/images/325/large/Tether-logo.png?1598003707",
+        "description": "Tether es una criptomoneda estable vinculada al valor del dólar estadounidense. Es una de las criptomonedas más utilizadas en todo el mundo como una forma de mantener el valor de las transacciones en línea."
+    },
+    {
+        "id": 8,
+        "name": "Solana",
+        "symbol": "SOL",
+        "price": "19.02",
+        "image": "https://assets.coingecko.com/coins/images/4128/large/coinmarketcap-solana-200.png?1616489452",
+        "description": "Solana es una plataforma blockchain de alta velocidad que se utiliza para crear aplicaciones descentralizadas. Fue lanzada en 2020 y ha ganado popularidad debido a su velocidad de procesamiento de transacciones y a su enfoque en la escalabilidad."
+    },
+    {
+        "id": 9,
+        "name": "Polkadot",
+        "symbol": "DOT",
+        "price": "5.23",
+        "image": "https://assets.coingecko.com/coins/images/12171/large/aJGBjJFU_400x400.jpg?1597804776",
+        "description": "Polkadot es una plataforma de cadena cruzada que permite a diferentes blockchains comunicarse entre sí. Fue creada en 2016 por el co-fundador de Ethereum, Gavin Wood, y se utiliza para crear aplicaciones descentralizadas en varias blockchains."
+    }
+]

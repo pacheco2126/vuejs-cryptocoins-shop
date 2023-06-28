@@ -1,0 +1,25 @@
+{
+  "name": "cryptocoins-shop",
+  "description": "An online shop and shopping cart built with Vue 3",
+  "author": "Ikram & Joaquim",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+
+  "dependencies": {
+    "pinia": "^2.0.28",
+    "vue": "^3.2.45",
+    "vue-router": "^4.1.6",
+    "express": "^4.4.5",
+    "axios": "^0.21.1"
+  },
+  
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.0.0",
+    "cors": "^2.8.5",
+    "paypal-rest-sdk": "^1.8.1",
+    "vite": "^4.0.0"
+  }
+}
